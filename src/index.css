@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+@import 'tailwindcss';
+
+@theme {
+  --color-serenade-50: #fdf7ef;
+  --color-serenade-100: #fcefe0;
+  --color-serenade-200: #f7d3b1;
+  --color-serenade-300: #f1b680;
+  --color-serenade-400: #ea8e4d;
+  --color-serenade-500: #e5702a;
+  --color-serenade-600: #d65720;
+  --color-serenade-700: #b2431c;
+  --color-serenade-800: #8e361e;
+  --color-serenade-900: #732f1b;
+  --color-serenade-950: #3e150c;
+  --color-mine-shaft-50: #f6f6f6;
+  --color-mine-shaft-100: #e7e7e7;
+  --color-mine-shaft-200: #d1d1d1;
+  --color-mine-shaft-300: #b0b0b0;
+  --color-mine-shaft-400: #888888;
+  --color-mine-shaft-500: #6d6d6d;
+  --color-mine-shaft-600: #5d5d5d;
+  --color-mine-shaft-700: #4f4f4f;
+  --color-mine-shaft-800: #454545;
+  --color-mine-shaft-900: #343434;
+  --color-mine-shaft-950: #262626;
+
+  --font-sans: 'Julius Sans One', sans-serif;
+}

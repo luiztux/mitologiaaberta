@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    // Modo de resolução de módulos para bundlers
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    // Alias de caminhos
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["src/components/*"]
+    },
+    // Outras opções do compilador
+    "target": "ESNext",
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "jsx": "react-jsx"
+  },
+  "include": ["vite.config.ts", "src/**/*.ts", "src/**/*.tsx"]
+}
