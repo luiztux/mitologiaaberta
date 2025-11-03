@@ -28,6 +28,7 @@ import {
   jessica,
   fabia,
   amarath,
+  ed26
 } from '../assets/Assets'
 
 export const magazines = [
@@ -280,6 +281,16 @@ export const magazines = [
     release: 'ago/2025',
     preface: 'Estamos na 25ª edição da Mitologia Aberta e tivemos uma enxurrada de artigos e materiais únicos e exclusivos para esta edição ...',
     url: '/edicoes/Revista_Mitologia_Aberta_edicao_25.pdf',
+  },
+  {
+    id: 26,
+    artista: 'Denis Freitas',
+    image: ed26,
+    title: 'Edição 26',
+    description: 'Descrição da edição 26',
+    release: 'nov/2025',
+    preface: 'A 26ª edição da Mitologia Aberta marca um período em que chegamos próximo aos cinco anos de existência ...',
+    url: '/edicoes/Revista_Mitologia_Aberta_edicao_26.pdf',
   },
 ];
 

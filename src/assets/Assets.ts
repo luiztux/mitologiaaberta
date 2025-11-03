@@ -30,5 +30,6 @@ import fabia from './images/fabia.webp';
 import scientia from './images/logo_scientia2.webp';
 import bird from './images/bird.svg';
 import amarath from './images/logo_amarath.png';
+import ed26 from './images/ed_26.webp';
 
-export { amarath, bird, ed1, ed2, ed3, ed4, ed5, ed6, ed7, ed8, ed9, ed10, ed11, ed12, ed13, ed14, ed15, ed16, ed17, ed18, ed19, ed20, ed21, ed22, ed23, ed24, ed25, logo, larissa, jessica, fabia, scientia };
+export { amarath, bird, ed1, ed2, ed3, ed4, ed5, ed6, ed7, ed8, ed9, ed10, ed11, ed12, ed13, ed14, ed15, ed16, ed17, ed18, ed19, ed20, ed21, ed22, ed23, ed24, ed25, logo, larissa, jessica, fabia, scientia, ed26 };
